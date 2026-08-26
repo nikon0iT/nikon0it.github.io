@@ -1,0 +1,17 @@
+{
+  "name": "Niko Polis",
+  "short_name": "Niko Polis",
+  "description": "Technology, fitness, focus, and good energy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101112",
+  "theme_color": "#101112",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
